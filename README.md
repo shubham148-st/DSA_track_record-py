@@ -1,4 +1,4 @@
-# 🚀 DSA Track Record in Python (`DSA_track_record-py`)
+# 🚀 DSA Track Record in Python
 
 A dedicated log tracking daily problem-solving, algorithmic optimizations, and time/space efficiency trade-offs using clean, idiomatic Python.
 
